@@ -9,17 +9,11 @@
 
 <img src="kernel_density_estiamte.png" width="1024">
 
-<img src="GrLivArea_Scatter.png width="1024">
-
 <img src="OverallQual.png" width="1024">
 
 <img src="yearBuilt_boxes.png" width="1024">
 
 <img src="full_heatmap.png" width="1024">
-
-<img src="sorted_heatmap.png" width="1024">
-
-<img src="pairplot.png" width="1024">
 
 <img src="GrLivArea.png" width="1024">
 
@@ -42,6 +36,4 @@
 <img src="prob_plot4.png" width="1024">
 
 <img src="price_scatter_log_scale.png" width="1024">
-
-<img src="TotalBsmtSF_scatter_log_scale.png" width="1024">
 
